@@ -10,6 +10,31 @@ A fully responsive **medical website** showcasing **Patient Reviews, Success Sto
 
 ---
 
+## 🔧 Installation Instructions  
+
+### **1. Upload Theme via WordPress Dashboard**  
+1. Download the `my-theme.zip` file from this repository.  
+2. Log in to your **WordPress Admin Panel**.  
+3. Go to **Appearance** → **Themes**.  
+4. Click **"Add New"** → **"Upload Theme"**.  
+5. Select the `my-theme.zip` file and click **"Install Now"**.  
+6. Click **"Activate"** to use the theme.  
+
+### **2. Upload Theme via FTP (Alternative Method)**  
+1. Extract the `my-theme.zip` file on your computer.  
+2. Connect to your server via **FTP** or **cPanel File Manager**.  
+3. Navigate to `/wp-content/themes/`.  
+4. Upload the extracted `my-theme/` folder.  
+5. Log in to your **WordPress Admin Panel** and activate the theme under **Appearance → Themes**.  
+
+---
+
+## 🛠️ Customization  
+- Go to **Appearance** → **Customize** to adjust theme settings.  
+- Modify template files in the `my-theme` folder if necessary.  
+
+---
+
 ## 🎯 **Features**  
 ✔️ **Fully Responsive Layout** – Works on all screen sizes  
 ✔️ **Modern Navigation & Smooth Scrolling**  
